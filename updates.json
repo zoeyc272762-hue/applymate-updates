@@ -1,12 +1,12 @@
 {
   "channel": "offline",
-  "version": "0.2.2",
-  "releasedAt": "2026-11-08T18:35:15.513Z",
+  "version": "0.2.3",
+  "releasedAt": "2026-11-08T18:37:27.988Z",
   "notes": [
-    "新增版本与更新页面，可检查并下载离线版更新",
+    "新增版本与更新页面，可在线检查并下载离线版更新",
     "同步最新规则与界面改进",
-    "优化离线简历解析与启动器"
+    "自动更新启动器"
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/zoeyc272762-hue/applymate-updates/main/applymate-offline-0.2.2.zip",
-  "sha256": "0e86fd201620dcfeab00134e3e927a358eb7f73292548f76f3cf0fbe357bc76e"
+  "downloadUrl": "https://raw.githubusercontent.com/zoeyc272762-hue/applymate-updates/main/applymate-offline-0.2.3.zip",
+  "sha256": "eea313ef8e834ab0c8e963b3e99441041e3e9f9b4305df8843ed0aab296f426c"
 }
