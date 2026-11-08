@@ -1,12 +1,12 @@
 {
   "channel": "offline",
-  "version": "0.2.9",
-  "releasedAt": "2026-11-08T18:59:48.451Z",
+  "version": "0.3.0",
+  "releasedAt": "2026-11-08T19:48:14.799Z",
   "notes": [
-    "新增“版本与更新”页面：自动检查更新、显示更新说明并下载新版本",
-    "启动器自动应用更新，无需重新发送安装包",
-    "更新源使用 GitHub Pages，并增强启动器网络超时"
+    "个人档案页改版：新增个人照片，移除名/姓/微信/网站/LinkedIn/GitHub",
+    "教育/实习移除城市；所有时间精确到年月日",
+    "校园经历新增级别下拉；荣誉级别下拉并按获得时间排序"
   ],
-  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.2.9.zip",
-  "sha256": "b196992b72e56163b7b04e92582c5d18baf37db6cdaf12e9882cf5dc62c20843"
+  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.0.zip",
+  "sha256": "9b2d71a72ed47a52b14048edaac550ba90a78862f911e4e281f4080b153d1890"
 }
