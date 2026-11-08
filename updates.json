@@ -1,12 +1,12 @@
 {
   "channel": "offline",
-  "version": "0.2.5",
-  "releasedAt": "2026-11-08T18:41:33.298Z",
+  "version": "0.2.6",
+  "releasedAt": "2026-11-08T18:47:56.836Z",
   "notes": [
     "新增“版本与更新”页面：自动检查更新、显示更新说明并下载新版本",
-    "启动器支持自动应用更新，无需重新发送 zip",
+    "启动器自动应用更新，无需重新发送安装包",
     "同步最新规则与界面改进"
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/zoeyc272762-hue/applymate-updates/main/applymate-offline-0.2.5.zip",
-  "sha256": "cb3ad4ea737a200eac325360320d920d03a1ec47a47dd718eb1c44acad757ee7"
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/zoeyc272762-hue/applymate-updates@main/applymate-offline-0.2.6.zip",
+  "sha256": "f065fef08988dbab67e723becc1e25539034c43f0dbabc21c64c6f2dfb8a8e15"
 }
