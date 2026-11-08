@@ -1,0 +1,11 @@
+{
+  "channel": "offline",
+  "version": "0.2.0",
+  "releasedAt": "2026-11-08T18:32:47.202Z",
+  "notes": [
+    "新增“版本与更新”页面，可检查并下载离线版新版本",
+    "同步最新规则与界面改进"
+  ],
+  "downloadUrl": "applymate-offline-0.2.0.zip",
+  "sha256": "dc0fdbdfd2da3bcd8ddf11c74cf22525f035f62c1293852bbbe588909364739d"
+}
