@@ -1,13 +1,12 @@
 {
   "channel": "offline",
-  "version": "0.3.2",
-  "releasedAt": "2026-11-09T05:24:36.438Z",
+  "version": "0.3.3",
+  "releasedAt": "2026-11-09T05:32:53.266Z",
   "notes": [
-    "修复外层标签导致性别、民族、政治面貌等字段漏填",
-    "支持自定义下拉与日期选择器",
-    "识别前自动添加实习、荣誉等重复区块并按档案条数填满",
-    "修复 YYYY-MM-DD 日期丢失日、荣誉日期误填为名称"
+    "修复大型表单超过 200 字段时 AI 请求被拒绝（显示“请求数据格式不正确”）",
+    "AI 按批次处理 200+ 字段，避免整页识别失败",
+    "保留自动添加重复区块、自定义下拉/日期与外层标签修复"
   ],
-  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.2.zip",
-  "sha256": "eee58e8d1945deb6805279a334863810f266a47e307083674f8d8a091dbad336"
+  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.3.zip",
+  "sha256": "c9f2d0290cabd7e8184489c3dbb7e075db941037467421f327cf91acfb501efd"
 }
