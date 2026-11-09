@@ -1,7 +1,7 @@
 {
   "channel": "offline",
   "version": "0.3.1",
-  "releasedAt": "2026-11-09T04:47:40.929Z",
+  "releasedAt": "2026-11-09T04:50:50.340Z",
   "notes": [
     "默认改为安装到日常 Edge",
     "新增图形化安装向导，自动准备固定目录并检查安装",
@@ -9,5 +9,5 @@
     "保留专用窗口作为不想开启开发者模式时的备用方式"
   ],
   "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.1.zip",
-  "sha256": "c7f5f23cc2c45332cb9206451996d924a35c41446da1d8da09df0bb2f53286ed"
+  "sha256": "d5ce313ca0acb1e9346cfd17c49aed4444e2b2d4dd08fe80f072d1f686430c6b"
 }
