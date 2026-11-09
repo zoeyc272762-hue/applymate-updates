@@ -1,13 +1,13 @@
 {
   "channel": "offline",
-  "version": "0.3.1",
-  "releasedAt": "2026-11-09T04:54:47.878Z",
+  "version": "0.3.2",
+  "releasedAt": "2026-11-09T05:24:36.438Z",
   "notes": [
-    "默认改为安装到日常 Edge",
-    "新增图形化安装向导，自动准备固定目录并检查安装",
-    "新增日常 Edge 原地更新脚本，更新后按提示重新加载",
-    "保留专用窗口作为不想开启开发者模式时的备用方式"
+    "修复外层标签导致性别、民族、政治面貌等字段漏填",
+    "支持自定义下拉与日期选择器",
+    "识别前自动添加实习、荣誉等重复区块并按档案条数填满",
+    "修复 YYYY-MM-DD 日期丢失日、荣誉日期误填为名称"
   ],
-  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.1.zip",
-  "sha256": "5733d0b9f6ed7b26177d8ae2b6e4018bb5ef7603675979d906cb3ac7100ed07b"
+  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.2.zip",
+  "sha256": "eee58e8d1945deb6805279a334863810f266a47e307083674f8d8a091dbad336"
 }
