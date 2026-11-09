@@ -1,12 +1,14 @@
 {
   "channel": "offline",
-  "version": "0.3.3",
-  "releasedAt": "2026-11-09T05:32:53.266Z",
+  "version": "0.3.4",
+  "releasedAt": "2026-11-09T05:52:32.922Z",
   "notes": [
-    "修复大型表单超过 200 字段时 AI 请求被拒绝（显示“请求数据格式不正确”）",
-    "AI 按批次处理 200+ 字段，避免整页识别失败",
-    "保留自动添加重复区块、自定义下拉/日期与外层标签修复"
+    "支持自定义 div 下拉与占位符值，修复民族/政治面貌等下拉漏填",
+    "年/月/日下拉可按档案日期分别选择",
+    "补充在校职务/校园经历分类与级别映射",
+    "自动添加按页面实际条目数计算，避免教育经历多建",
+    "保留大表单 AI 分批识别"
   ],
-  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.3.zip",
-  "sha256": "c9f2d0290cabd7e8184489c3dbb7e075db941037467421f327cf91acfb501efd"
+  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.4.zip",
+  "sha256": "3307b78c32d09218112fd1844ccf8a26320a962808c68313adb9ebf877cbc639"
 }
