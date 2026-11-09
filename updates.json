@@ -1,12 +1,13 @@
 {
   "channel": "offline",
-  "version": "0.3.0",
-  "releasedAt": "2026-11-08T19:48:14.799Z",
+  "version": "0.3.1",
+  "releasedAt": "2026-11-09T04:47:40.929Z",
   "notes": [
-    "个人档案页改版：新增个人照片，移除名/姓/微信/网站/LinkedIn/GitHub",
-    "教育/实习移除城市；所有时间精确到年月日",
-    "校园经历新增级别下拉；荣誉级别下拉并按获得时间排序"
+    "默认改为安装到日常 Edge",
+    "新增图形化安装向导，自动准备固定目录并检查安装",
+    "新增日常 Edge 原地更新脚本，更新后按提示重新加载",
+    "保留专用窗口作为不想开启开发者模式时的备用方式"
   ],
-  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.0.zip",
-  "sha256": "9b2d71a72ed47a52b14048edaac550ba90a78862f911e4e281f4080b153d1890"
+  "downloadUrl": "https://zoeyc272762-hue.github.io/applymate-updates/applymate-offline-0.3.1.zip",
+  "sha256": "c7f5f23cc2c45332cb9206451996d924a35c41446da1d8da09df0bb2f53286ed"
 }
